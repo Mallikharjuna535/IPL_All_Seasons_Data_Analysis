@@ -65,7 +65,7 @@ id,season,city,date,match_type,player_of_match,venue,team1,team2,toss_winner,tos
 392186,2009,Durban,4/21/2009,League,CH Gayle,Kingsmead,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,11,69,9.2,N,D/L,DJ Harper,SD Ranade
 392188,2009,Cape Town,4/22/2009,League,AC Gilchrist,Newlands,Royal Challengers Bengaluru,Deccan Chargers,Deccan Chargers,bat,Deccan Chargers,runs,24,185,20,N,NA,M Erasmus,AM Saheba
 392189,2009,Durban,4/23/2009,League,AB de Villiers,Kingsmead,Chennai Super Kings,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,runs,9,190,20,N,NA,BR Doctrove,SJA Taufel
-392190,2009,Cape Town,4/23/2009,League,YK Pathan,Newlands,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Rajasthan Royals,tie,NA,151,20,Y,NA,MR Benson,M Erasmus
+392190,2009,Cape Town,4/23/2009,League,YK Pathan,Newlands,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Rajasthan Royals,tie,0,151,20,Y,NA,MR Benson,M Erasmus
 392191,2009,Durban,4/24/2009,League,RS Bopara,Kingsmead,Royal Challengers Bengaluru,Kings XI Punjab,Royal Challengers Bengaluru,bat,Kings XI Punjab,wickets,7,169,20,N,NA,BR Doctrove,TH Wijewardene
 392192,2009,Durban,4/25/2009,League,PP Ojha,Kingsmead,Deccan Chargers,Mumbai Indians,Deccan Chargers,bat,Deccan Chargers,runs,12,169,20,N,NA,HDPK Dharmasena,SJA Taufel
 392194,2009,Port Elizabeth,4/26/2009,League,TM Dilshan,St George's Park,Royal Challengers Bengaluru,Delhi Capitals,Royal Challengers Bengaluru,bat,Delhi Capitals,wickets,6,150,20,N,NA,S Asnani,BG Jerling
@@ -129,7 +129,7 @@ id,season,city,date,match_type,player_of_match,venue,team1,team2,toss_winner,tos
 419118,2010,Ahmedabad,3/20/2010,League,AA Jhunjhunwala,"Sardar Patel Stadium, Motera",Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,Rajasthan Royals,runs,34,169,20,N,NA,RE Koertzen,RB Tiffin
 419119,2010,Mumbai,3/20/2010,League,JH Kallis,Brabourne Stadium,Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,bat,Royal Challengers Bengaluru,wickets,7,152,20,N,NA,HDPK Dharmasena,SS Hazare
 419120,2010,Cuttack,3/21/2010,League,A Symonds,Barabati Stadium,Deccan Chargers,Delhi Capitals,Deccan Chargers,bat,Deccan Chargers,runs,10,172,20,N,NA,BF Bowden,M Erasmus
-419121,2010,Chennai,3/21/2010,League,J Theron,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,field,Kings XI Punjab,tie,NA,137,20,Y,NA,K Hariharan,DJ Harper
+419121,2010,Chennai,3/21/2010,League,J Theron,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,field,Kings XI Punjab,tie,0,137,20,Y,NA,K Hariharan,DJ Harper
 419122,2010,Mumbai,3/22/2010,League,SR Tendulkar,Brabourne Stadium,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,Mumbai Indians,wickets,7,156,20,N,NA,SS Hazare,SJA Taufel
 419123,2010,Bangalore,3/23/2010,League,RV Uthappa,M Chinnaswamy Stadium,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,field,Royal Challengers Bengaluru,runs,36,172,20,N,NA,RE Koertzen,RB Tiffin
 419124,2010,Chandigarh,3/24/2010,League,AC Voges,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,field,Rajasthan Royals,runs,31,184,20,N,NA,BR Doctrove,SK Tarapore
@@ -240,7 +240,7 @@ id,season,city,date,match_type,player_of_match,venue,team1,team2,toss_winner,tos
 501262,2011,Mumbai,5/19/2011,League,YK Pathan,Dr DY Patil Sports Academy,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,7,119,20,N,NA,S Ravi,SJA Taufel
 501263,2011,Mumbai,5/20/2011,League,SR Watson,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Rajasthan Royals,wickets,10,134,20,N,NA,RE Koertzen,PR Reiffel
 501264,2011,Dharamsala,5/21/2011,League,S Dhawan,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Deccan Chargers,Kings XI Punjab,field,Deccan Chargers,runs,82,199,20,N,NA,Asad Rauf,AM Saheba
-501265,2011,Delhi,5/21/2011,League,NA,Feroz Shah Kotla,Delhi Capitals,Pune Warriors,Delhi Capitals,bat,NA,no result,NA,NA,NA,N,NA,SS Hazare,RJ Tucker
+501265,2011,Delhi,5/21/2011,League,NA,Feroz Shah Kotla,Delhi Capitals,Pune Warriors,Delhi Capitals,bat,NA,runs,0,100,5,N,NA,SS Hazare,RJ Tucker
 501266,2011,Bangalore,5/22/2011,League,CH Gayle,M Chinnaswamy Stadium,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,wickets,8,129,20,N,NA,K Hariharan,RE Koertzen
 501267,2011,Kolkata,5/22/2011,League,JEC Franklin,Eden Gardens,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,5,176,20,N,NA,SK Tarapore,SJA Taufel
 501268,2011,Mumbai,5/24/2011,Qualifier 1,SK Raina,Wankhede Stadium,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,6,176,20,N,NA,Asad Rauf,SJA Taufel
@@ -327,7 +327,7 @@ id,season,city,date,match_type,player_of_match,venue,team1,team2,toss_winner,tos
 598001,2013,Delhi,4/6/2013,League,R Dravid,Feroz Shah Kotla,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,5,166,20,N,NA,S Das,C Shamshuddin
 598002,2013,Chennai,4/6/2013,League,KA Pollard,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,9,149,20,N,NA,M Erasmus,VA Kulkarni
 598003,2013,Pune,4/7/2013,League,M Vohra,Subrata Roy Sahara Stadium,Pune Warriors,Kings XI Punjab,Pune Warriors,bat,Kings XI Punjab,wickets,8,100,20,N,NA,S Asnani,SJA Taufel
-598004,2013,Hyderabad,4/7/2013,League,GH Vihari,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Sunrisers Hyderabad,tie,NA,131,20,Y,NA,AK Chaudhary,S Ravi
+598004,2013,Hyderabad,4/7/2013,League,GH Vihari,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Sunrisers Hyderabad,tie,0,131,20,Y,NA,AK Chaudhary,S Ravi
 598005,2013,Jaipur,4/8/2013,League,SK Trivedi,Sawai Mansingh Stadium,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Rajasthan Royals,runs,19,145,20,N,NA,Aleem Dar,S Das
 598006,2013,Mumbai,4/9/2013,League,KD Karthik,Wankhede Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,Mumbai Indians,runs,44,210,20,N,NA,M Erasmus,VA Kulkarni
 598048,2013,Bangalore,4/9/2013,League,V Kohli,M Chinnaswamy Stadium,Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Royal Challengers Bengaluru,wickets,7,162,20,N,NA,S Ravi,SJA Taufel
@@ -341,7 +341,7 @@ id,season,city,date,match_type,player_of_match,venue,team1,team2,toss_winner,tos
 598014,2013,Jaipur,4/14/2013,League,JP Faulkner,Sawai Mansingh Stadium,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,field,Rajasthan Royals,wickets,6,125,20,N,NA,Aleem Dar,C Shamshuddin
 598015,2013,Chennai,4/15/2013,League,SPD Smith,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Pune Warriors,Pune Warriors,bat,Pune Warriors,runs,24,160,20,N,NA,Asad Rauf,AK Chaudhary
 598016,2013,Chandigarh,4/16/2013,League,MS Gony,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,Kings XI Punjab,runs,4,158,20,N,NA,CK Nandan,SJA Taufel
-598017,2013,Bangalore,4/16/2013,League,V Kohli,M Chinnaswamy Stadium,Royal Challengers Bengaluru,Delhi Capitals,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,tie,NA,153,20,Y,NA,M Erasmus,VA Kulkarni
+598017,2013,Bangalore,4/16/2013,League,V Kohli,M Chinnaswamy Stadium,Royal Challengers Bengaluru,Delhi Capitals,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,tie,0,153,20,Y,NA,M Erasmus,VA Kulkarni
 598018,2013,Pune,4/17/2013,League,A Mishra,Maharashtra Cricket Association Stadium,Pune Warriors,Sunrisers Hyderabad,Pune Warriors,field,Sunrisers Hyderabad,runs,11,120,20,N,NA,Asad Rauf,AK Chaudhary
 598019,2013,Jaipur,4/17/2013,League,AM Rahane,Sawai Mansingh Stadium,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,Rajasthan Royals,runs,87,180,20,N,NA,Aleem Dar,C Shamshuddin
 598020,2013,Delhi,4/18/2013,League,MEK Hussey,Feroz Shah Kotla,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,86,170,20,N,NA,M Erasmus,VA Kulkarni
@@ -415,7 +415,7 @@ id,season,city,date,match_type,player_of_match,venue,team1,team2,toss_winner,tos
 729309,2014,NA,4/27/2014,League,M Vijay,Sharjah Cricket Stadium,Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,Delhi Capitals,wickets,6,126,20,N,NA,Aleem Dar,VA Kulkarni
 729311,2014,NA,4/27/2014,League,DR Smith,Sharjah Cricket Stadium,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,Chennai Super Kings,wickets,5,146,20,N,NA,AK Chaudhary,VA Kulkarni
 729313,2014,NA,4/28/2014,League,Sandeep Sharma,Dubai International Cricket Stadium,Kings XI Punjab,Royal Challengers Bengaluru,Kings XI Punjab,field,Kings XI Punjab,wickets,5,125,20,N,NA,BF Bowden,S Ravi
-729315,2014,Abu Dhabi,4/29/2014,League,JP Faulkner,Sheikh Zayed Stadium,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,tie,NA,153,20,Y,NA,Aleem Dar,AK Chaudhary
+729315,2014,Abu Dhabi,4/29/2014,League,JP Faulkner,Sheikh Zayed Stadium,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,tie,0,153,20,Y,NA,Aleem Dar,AK Chaudhary
 729317,2014,NA,4/30/2014,League,B Kumar,Dubai International Cricket Stadium,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Sunrisers Hyderabad,runs,15,173,20,N,NA,HDPK Dharmasena,M Erasmus
 733971,2014,Ranchi,5/2/2014,League,RA Jadeja,JSCA International Stadium Complex,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Chennai Super Kings,runs,34,149,17,N,NA,AK Chaudhary,NJ Llong
 733973,2014,Mumbai,5/3/2014,League,CJ Anderson,Wankhede Stadium,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,bat,Mumbai Indians,wickets,5,169,20,N,NA,BNJ Oxenford,C Shamshuddin
@@ -474,7 +474,7 @@ id,season,city,date,match_type,player_of_match,venue,team1,team2,toss_winner,tos
 829735,2015,Ahmedabad,4/19/2015,League,AM Rahane,"Sardar Patel Stadium, Motera",Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,Rajasthan Royals,wickets,8,157,20,N,NA,AK Chaudhary,M Erasmus
 829737,2015,Bangalore,4/19/2015,League,Harbhajan Singh,M Chinnaswamy Stadium,Royal Challengers Bengaluru,Mumbai Indians,Royal Challengers Bengaluru,field,Mumbai Indians,runs,18,210,20,N,NA,RK Illingworth,VA Kulkarni
 829739,2015,Delhi,4/20/2015,League,UT Yadav,Feroz Shah Kotla,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,6,147,20,N,NA,SD Fry,CB Gaffaney
-829741,2015,Ahmedabad,4/21/2015,League,SE Marsh,"Sardar Patel Stadium, Motera",Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,tie,NA,192,20,Y,NA,M Erasmus,S Ravi
+829741,2015,Ahmedabad,4/21/2015,League,SE Marsh,"Sardar Patel Stadium, Motera",Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,tie,0,192,20,Y,NA,M Erasmus,S Ravi
 829743,2015,Visakhapatnam,4/22/2015,League,DA Warner,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Sunrisers Hyderabad,runs,16,118,12,N,D/L,RK Illingworth,VA Kulkarni
 829745,2015,Bangalore,4/22/2015,League,SK Raina,M Chinnaswamy Stadium,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,field,Chennai Super Kings,runs,27,182,20,N,NA,JD Cloete,C Shamshuddin
 829747,2015,Delhi,4/23/2015,League,SS Iyer,Feroz Shah Kotla,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Delhi Capitals,runs,37,191,20,N,NA,SD Fry,CK Nandan
@@ -484,7 +484,7 @@ id,season,city,date,match_type,player_of_match,venue,team1,team2,toss_winner,tos
 829757,2015,Delhi,4/26/2015,League,VR Aaron,Feroz Shah Kotla,Delhi Capitals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,wickets,10,96,20,N,NA,M Erasmus,S Ravi
 829759,2015,Chandigarh,4/27/2015,League,TA Boult,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,field,Sunrisers Hyderabad,runs,20,151,20,N,NA,HDPK Dharmasena,CB Gaffaney
 829765,2015,Chennai,4/28/2015,League,DJ Bravo,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Chennai Super Kings,runs,2,135,20,N,NA,RM Deshpande,VA Kulkarni
-829763,2015,Bangalore,4/29/2015,League,NA,M Chinnaswamy Stadium,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,field,NA,no result,NA,NA,NA,N,NA,JD Cloete,PG Pathak
+829763,2015,Bangalore,4/29/2015,League,NA,M Chinnaswamy Stadium,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,field,NA,runs,0,100,5,N,NA,JD Cloete,PG Pathak
 829723,2015,Kolkata,4/30/2015,League,AD Russell,Eden Gardens,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,7,166,20,N,NA,AK Chaudhary,M Erasmus
 829767,2015,Delhi,5/1/2015,League,NM Coulter-Nile,Feroz Shah Kotla,Delhi Capitals,Kings XI Punjab,Delhi Capitals,field,Delhi Capitals,wickets,9,119,20,N,NA,RK Illingworth,S Ravi
 829769,2015,Mumbai,5/1/2015,League,AT Rayudu,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Mumbai Indians,runs,8,188,20,N,NA,HDPK Dharmasena,CK Nandan
@@ -510,7 +510,7 @@ id,season,city,date,match_type,player_of_match,venue,team1,team2,toss_winner,tos
 829807,2015,Hyderabad,5/15/2015,League,V Kohli,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Royal Challengers Bengaluru,Sunrisers Hyderabad,bat,Royal Challengers Bengaluru,wickets,6,81,6,N,D/L,AK Chaudhary,HDPK Dharmasena
 829809,2015,Chandigarh,5/16/2015,League,P Negi,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,bat,Chennai Super Kings,wickets,7,131,20,N,NA,CK Nandan,C Shamshuddin
 829811,2015,Mumbai,5/16/2015,League,SR Watson,Brabourne Stadium,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,Rajasthan Royals,runs,9,200,20,N,NA,RM Deshpande,RK Illingworth
-829813,2015,Bangalore,5/17/2015,League,NA,M Chinnaswamy Stadium,Royal Challengers Bengaluru,Delhi Capitals,Royal Challengers Bengaluru,field,NA,no result,NA,188,20,N,NA,HDPK Dharmasena,K Srinivasan
+829813,2015,Bangalore,5/17/2015,League,NA,M Chinnaswamy Stadium,Royal Challengers Bengaluru,Delhi Capitals,Royal Challengers Bengaluru,field,NA,runs,0,188,20,N,NA,HDPK Dharmasena,K Srinivasan
 829815,2015,Hyderabad,5/17/2015,League,MJ McClenaghan,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,Mumbai Indians,wickets,9,114,20,N,NA,CB Gaffaney,K Srinath
 829817,2015,Mumbai,5/19/2015,Qualifier 1,KA Pollard,Wankhede Stadium,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,25,188,20,N,NA,HDPK Dharmasena,RK Illingworth
 829819,2015,Pune,5/20/2015,Eliminator,AB de Villiers,Maharashtra Cricket Association Stadium,Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,runs,71,181,20,N,NA,AK Chaudhary,C Shamshuddin
@@ -609,7 +609,7 @@ id,season,city,date,match_type,player_of_match,venue,team1,team2,toss_winner,tos
 1082622,2017,Kolkata,4/28/2017,League,G Gambhir,Eden Gardens,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,7,161,20,N,NA,NJ Llong,S Ravi
 1082623,2017,Chandigarh,4/28/2017,League,Rashid Khan,"Punjab Cricket Association IS Bindra Stadium, Mohali",Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,field,Sunrisers Hyderabad,runs,26,208,20,N,NA,Nitin Menon,CK Nandan
 1082624,2017,Pune,4/29/2017,League,LH Ferguson,Maharashtra Cricket Association Stadium,Rising Pune Supergiant,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Rising Pune Supergiant,runs,61,158,20,N,NA,KN Ananthapadmanabhan,M Erasmus
-1082625,2017,Rajkot,4/29/2017,League,KH Pandya,Saurashtra Cricket Association Stadium,Gujarat Lions,Mumbai Indians,Gujarat Lions,bat,Mumbai Indians,tie,NA,154,20,Y,NA,AK Chaudhary,CB Gaffaney
+1082625,2017,Rajkot,4/29/2017,League,KH Pandya,Saurashtra Cricket Association Stadium,Gujarat Lions,Mumbai Indians,Gujarat Lions,bat,Mumbai Indians,tie,0,154,20,Y,NA,AK Chaudhary,CB Gaffaney
 1082626,2017,Chandigarh,4/30/2017,League,Sandeep Sharma,"Punjab Cricket Association IS Bindra Stadium, Mohali",Kings XI Punjab,Delhi Capitals,Kings XI Punjab,field,Kings XI Punjab,wickets,10,68,20,N,NA,YC Barde,CK Nandan
 1082627,2017,Hyderabad,4/30/2017,League,DA Warner,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Sunrisers Hyderabad,runs,48,210,20,N,NA,AY Dandekar,S Ravi
 1082628,2017,Mumbai,5/1/2017,League,RG Sharma,Wankhede Stadium,Mumbai Indians,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Mumbai Indians,wickets,5,163,20,N,NA,AK Chaudhary,CB Gaffaney
@@ -704,7 +704,7 @@ id,season,city,date,match_type,player_of_match,venue,team1,team2,toss_winner,tos
 1175362,2019,Bengaluru,3/28/2019,League,JJ Bumrah,M.Chinnaswamy Stadium,Mumbai Indians,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Mumbai Indians,runs,6,188,20,N,NA,CK Nandan,S Ravi
 1175363,2019,Hyderabad,3/29/2019,League,Rashid Khan,Rajiv Gandhi International Stadium,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,Sunrisers Hyderabad,wickets,5,199,20,N,NA,BNJ Oxenford,C Shamshuddin
 1175364,2019,Chandigarh,3/30/2019,League,MA Agarwal,Punjab Cricket Association IS Bindra Stadium,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,8,177,20,N,NA,CB Gaffaney,VA Kulkarni
-1175365,2019,Delhi,3/30/2019,League,PP Shaw,Arun Jaitley Stadium,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,tie,NA,186,20,Y,NA,AY Dandekar,Nitin Menon
+1175365,2019,Delhi,3/30/2019,League,PP Shaw,Arun Jaitley Stadium,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,tie,0,186,20,Y,NA,AY Dandekar,Nitin Menon
 1175366,2019,Hyderabad,3/31/2019,League,JM Bairstow,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Sunrisers Hyderabad,runs,118,232,20,N,NA,KN Ananthapadmanabhan,S Ravi
 1175367,2019,Chennai,3/31/2019,League,MS Dhoni,MA Chidambaram Stadium,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings,runs,8,176,20,N,NA,CK Nandan,YC Barde
 1175368,2019,Chandigarh,4/1/2019,League,SM Curran,Punjab Cricket Association IS Bindra Stadium,Kings XI Punjab,Delhi Capitals,Delhi Capitals,field,Kings XI Punjab,runs,14,167,20,N,NA,AK Chaudhary,CB Gaffaney
@@ -743,9 +743,9 @@ id,season,city,date,match_type,player_of_match,venue,team1,team2,toss_winner,tos
 1178421,2019,Delhi,4/28/2019,League,S Dhawan,Arun Jaitley Stadium,Delhi Capitals,Royal Challengers Bengaluru,Delhi Capitals,bat,Delhi Capitals,runs,16,188,20,N,NA,BNJ Oxenford,KN Ananthapadmanabhan
 1178422,2019,Kolkata,4/28/2019,League,AD Russell,Eden Gardens,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Kolkata Knight Riders,runs,34,233,20,N,NA,IJ Gould,Nitin Menon
 1178423,2019,Hyderabad,4/29/2019,League,DA Warner,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,Sunrisers Hyderabad,runs,45,213,20,N,NA,CK Nandan,S Ravi
-1178424,2019,Bengaluru,4/30/2019,League,NA,M.Chinnaswamy Stadium,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,field,NA,no result,NA,63,5,N,NA,NJ Llong,UV Gandhe
+1178424,2019,Bengaluru,4/30/2019,League,NA,M.Chinnaswamy Stadium,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,field,NA,runs,0,63,5,N,NA,NJ Llong,UV Gandhe
 1178425,2019,Chennai,5/1/2019,League,MS Dhoni,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Chennai Super Kings,runs,80,180,20,N,NA,AY Dandekar,Nitin Menon
-1178426,2019,Mumbai,5/2/2019,League,JJ Bumrah,Wankhede Stadium,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Mumbai Indians,tie,NA,163,20,Y,NA,CK Nandan,S Ravi
+1178426,2019,Mumbai,5/2/2019,League,JJ Bumrah,Wankhede Stadium,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Mumbai Indians,tie,0,163,20,Y,NA,CK Nandan,S Ravi
 1178427,2019,Chandigarh,5/3/2019,League,Shubman Gill,Punjab Cricket Association IS Bindra Stadium,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,7,184,20,N,NA,BNJ Oxenford,C Shamshuddin
 1178428,2019,Delhi,5/4/2019,League,A Mishra,Arun Jaitley Stadium,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,Delhi Capitals,wickets,5,116,20,N,NA,AY Dandekar,IJ Gould
 1178429,2019,Bengaluru,5/4/2019,League,SO Hetmyer,M.Chinnaswamy Stadium,Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,wickets,4,176,20,N,NA,AK Chaudhary,NJ Llong
@@ -756,7 +756,7 @@ id,season,city,date,match_type,player_of_match,venue,team1,team2,toss_winner,tos
 1181767,2019,Visakhapatnam,5/10/2019,Qualifier 2,F du Plessis,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,6,148,20,N,NA,BNJ Oxenford,S Ravi
 1181768,2019,Hyderabad,5/12/2019,Final,JJ Bumrah,Rajiv Gandhi International Stadium,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Mumbai Indians,runs,1,150,20,N,NA,IJ Gould,Nitin Menon
 1216492,2020,Abu Dhabi,9/19/2020,League,AT Rayudu,Sheikh Zayed Stadium,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,5,163,20,N,NA,CB Gaffaney,VK Sharma
-1216493,2020,NA,9/20/2020,League,MP Stoinis,Dubai International Cricket Stadium,Delhi Capitals,Kings XI Punjab,Kings XI Punjab,field,Delhi Capitals,tie,NA,158,20,Y,NA,AK Chaudhary,Nitin Menon
+1216493,2020,NA,9/20/2020,League,MP Stoinis,Dubai International Cricket Stadium,Delhi Capitals,Kings XI Punjab,Kings XI Punjab,field,Delhi Capitals,tie,0,158,20,Y,NA,AK Chaudhary,Nitin Menon
 1216534,2020,NA,9/21/2020,League,YS Chahal,Dubai International Cricket Stadium,Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Royal Challengers Bengaluru,runs,10,164,20,N,NA,AY Dandekar,Nitin Menon
 1216496,2020,NA,9/22/2020,League,SV Samson,Sharjah Cricket Stadium,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,Rajasthan Royals,runs,16,217,20,N,NA,C Shamshuddin,VA Kulkarni
 1216508,2020,Abu Dhabi,9/23/2020,League,RG Sharma,Sheikh Zayed Stadium,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Mumbai Indians,runs,49,196,20,N,NA,CB Gaffaney,S Ravi
@@ -764,7 +764,7 @@ id,season,city,date,match_type,player_of_match,venue,team1,team2,toss_winner,tos
 1216539,2020,NA,9/25/2020,League,PP Shaw,Dubai International Cricket Stadium,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Delhi Capitals,runs,44,176,20,N,NA,KN Ananthapadmanabhan,RK Illingworth
 1216545,2020,Abu Dhabi,9/26/2020,League,Shubman Gill,Sheikh Zayed Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Kolkata Knight Riders,wickets,7,143,20,N,NA,CB Gaffaney,VK Sharma
 1216527,2020,NA,9/27/2020,League,SV Samson,Sharjah Cricket Stadium,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,4,224,20,N,NA,RK Illingworth,K Srinivasan
-1216547,2020,NA,9/28/2020,League,AB de Villiers,Dubai International Cricket Stadium,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,field,Royal Challengers Bengaluru,tie,NA,202,20,Y,NA,Nitin Menon,PR Reiffel
+1216547,2020,NA,9/28/2020,League,AB de Villiers,Dubai International Cricket Stadium,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,field,Royal Challengers Bengaluru,tie,0,202,20,Y,NA,Nitin Menon,PR Reiffel
 1216532,2020,Abu Dhabi,9/29/2020,League,Rashid Khan,Sheikh Zayed Stadium,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Sunrisers Hyderabad,runs,15,163,20,N,NA,VK Sharma,S Ravi
 1216504,2020,NA,9/30/2020,League,Shivam Mavi,Dubai International Cricket Stadium,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Kolkata Knight Riders,runs,37,175,20,N,NA,KN Ananthapadmanabhan,C Shamshuddin
 1216503,2020,Abu Dhabi,10/1/2020,League,KA Pollard,Sheikh Zayed Stadium,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,field,Mumbai Indians,runs,48,192,20,N,NA,VK Sharma,S Ravi
@@ -789,8 +789,8 @@ id,season,city,date,match_type,player_of_match,venue,team1,team2,toss_winner,tos
 1216526,2020,Abu Dhabi,10/16/2020,League,Q de Kock,Sheikh Zayed Stadium,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,Mumbai Indians,wickets,8,149,20,N,NA,CB Gaffaney,VK Sharma
 1216509,2020,NA,10/17/2020,League,S Dhawan,Sharjah Cricket Stadium,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Delhi Capitals,wickets,5,180,20,N,NA,KN Ananthapadmanabhan,RK Illingworth
 1216522,2020,NA,10/17/2020,League,AB de Villiers,Dubai International Cricket Stadium,Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,bat,Royal Challengers Bengaluru,wickets,7,178,20,N,NA,AK Chaudhary,Nitin Menon
-1216512,2020,Abu Dhabi,10/18/2020,League,LH Ferguson,Sheikh Zayed Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,tie,NA,164,20,Y,NA,PG Pathak,S Ravi
-1216517,2020,NA,10/18/2020,League,KL Rahul,Dubai International Cricket Stadium,Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,Kings XI Punjab,tie,NA,177,20,Y,NA,Nitin Menon,PR Reiffel
+1216512,2020,Abu Dhabi,10/18/2020,League,LH Ferguson,Sheikh Zayed Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,tie,0,164,20,Y,NA,PG Pathak,S Ravi
+1216517,2020,NA,10/18/2020,League,KL Rahul,Dubai International Cricket Stadium,Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,Kings XI Punjab,tie,0,177,20,Y,NA,Nitin Menon,PR Reiffel
 1216533,2020,Abu Dhabi,10/19/2020,League,JC Buttler,Sheikh Zayed Stadium,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Rajasthan Royals,wickets,7,126,20,N,NA,CB Gaffaney,VK Sharma
 1216546,2020,NA,10/20/2020,League,S Dhawan,Dubai International Cricket Stadium,Delhi Capitals,Kings XI Punjab,Delhi Capitals,bat,Kings XI Punjab,wickets,5,165,20,N,NA,C Shamshuddin,RK Illingworth
 1216494,2020,Abu Dhabi,10/21/2020,League,Mohammed Siraj,Sheikh Zayed Stadium,Kolkata Knight Riders,Royal Challengers Bengaluru,Kolkata Knight Riders,bat,Royal Challengers Bengaluru,wickets,8,85,20,N,NA,VK Sharma,S Ravi
@@ -834,7 +834,7 @@ id,season,city,date,match_type,player_of_match,venue,team1,team2,toss_winner,tos
 1254074,2021,Chennai,4/23/2021,League,KL Rahul,"MA Chidambaram Stadium, Chepauk, Chennai",Mumbai Indians,Punjab Kings,Punjab Kings,field,Punjab Kings,wickets,9,132,20,N,NA,C Shamshuddin,Nitin Menon
 1254075,2021,Mumbai,4/24/2021,League,CH Morris,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,6,134,20,N,NA,Navdeep Singh,S Ravi
 1254076,2021,Mumbai,4/25/2021,League,RA Jadeja,"Wankhede Stadium, Mumbai",Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,bat,Chennai Super Kings,runs,69,192,20,N,NA,AK Chaudhary,VK Sharma
-1254077,2021,Chennai,4/25/2021,League,PP Shaw,"MA Chidambaram Stadium, Chepauk, Chennai",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Delhi Capitals,tie,NA,160,20,Y,NA,CB Gaffaney,KN Ananthapadmanabhan
+1254077,2021,Chennai,4/25/2021,League,PP Shaw,"MA Chidambaram Stadium, Chepauk, Chennai",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Delhi Capitals,tie,0,160,20,Y,NA,CB Gaffaney,KN Ananthapadmanabhan
 1254078,2021,Ahmedabad,4/26/2021,League,EJG Morgan,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,5,124,20,N,NA,PR Reiffel,YC Barde
 1254079,2021,Ahmedabad,4/27/2021,League,AB de Villiers,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,field,Royal Challengers Bengaluru,runs,1,172,20,N,NA,S Ravi,VK Sharma
 1254080,2021,Delhi,4/28/2021,League,RD Gaikwad,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,Chennai Super Kings,wickets,7,172,20,N,NA,C Shamshuddin,CK Nandan
@@ -993,7 +993,7 @@ id,season,city,date,match_type,player_of_match,venue,team1,team2,toss_winner,tos
 1359516,2023,Mumbai,4/30/2023,League,YBK Jaiswal,"Wankhede Stadium, Mumbai",Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,Mumbai Indians,wickets,6,213,20,N,NA,Vinod Seshan,VK Sharma
 1359517,2023,Lucknow,5/1/2023,League,F du Plessis,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Royal Challengers Bengaluru,Lucknow Super Giants,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,runs,18,127,20,N,NA,AK Chaudhary,GR Sadashiv Iyer
 1359518,2023,Ahmedabad,5/2/2023,League,Mohammed Shami,"Narendra Modi Stadium, Ahmedabad",Delhi Capitals,Gujarat Titans,Delhi Capitals,bat,Delhi Capitals,runs,5,131,20,N,NA,MA Gough,R Pandit
-1359519,2023,Lucknow,5/3/2023,League,NA,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Chennai Super Kings,Chennai Super Kings,field,NA,no result,NA,NA,NA,N,NA,AK Chaudhary,NA Patwardhan
+1359519,2023,Lucknow,5/3/2023,League,NA,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Chennai Super Kings,Chennai Super Kings,field,NA,runs,0,100,5,N,NA,AK Chaudhary,NA Patwardhan
 1359520,2023,Chandigarh,5/3/2023,League,Ishan Kishan,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Punjab Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,6,215,20,N,NA,J Madanagopal,RJ Tucker
 1359521,2023,Hyderabad,5/4/2023,League,CV Varun,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,5,172,20,N,NA,KN Ananthapadmanabhan,MA Gough
 1359522,2023,Jaipur,5/5/2023,League,Rashid Khan,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Gujarat Titans,Rajasthan Royals,bat,Gujarat Titans,wickets,9,119,20,N,NA,HAS Khalid,VK Sharma
